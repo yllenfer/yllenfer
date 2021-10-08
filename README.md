@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**yllenfer/yllenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yllen! 👋</h1>
+<hr>
+<p> I am a computer science student</p>
+<p> some of my skills are: </p>
+<ul>
+  <li>Java - Android developement</li>
+  <li>HTML5 / CSS3 / SCSS / JavaScript - Design</li>
+  <li>Python - Data analysis/ Visualization</li>
+  </ul>
+    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on an android app 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with JavaScript -it has been a nightmare for me
-- 💬 Ask me about anything
-- 📫 How to reach me: <a href="https://www.yllenfernandez.com/">yllenfernandez.com</a>
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like iPad illustration
--->
+  <h3> Here's my coding time </h3>
+<a href="https://wakatime.com/@18e61308-5645-4f34-a530-97a4992fad25"><img src="https://wakatime.com/badge/user/18e61308-5645-4f34-a530-97a4992fad25.svg" alt="Total time coded since Oct 30 2020" /></a>
