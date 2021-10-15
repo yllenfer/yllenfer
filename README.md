@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yllen! 👋</h1>
+I am Yllen!</h1>
 <hr>
 <p> I am a computer science student</p>
 <p> some of my skills are: </p>
