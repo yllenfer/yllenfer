@@ -2,7 +2,7 @@
 
 I am Yllen!</h1>
 <hr>
-<p> I am a computer science student</p>
+<p> I am a full stack software engineer </p>
 <p> some of my skills are: </p>
 <ul>
   <li>Java - Android developement</li>
