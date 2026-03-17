@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## About Me
 
-- 🌱 I’m currently learning [technology/framework/language]
-- 💬 Ask me about [your areas of expertise or interest]
-- 📫 How to reach me: [your email or social media handle]
-- ⚡ Fun fact: [something interesting about you]
+- 🌱 I’m currently learning Mechatronic engineering on my own
+- 💬 Ask me about Raspberry Pi, Arduino and BCI
+- 📫 How to reach me: yllenfernandez@gmail.com
+- ⚡ Fun fact: I am left-handed
 
 ## GitHub Stats
 
