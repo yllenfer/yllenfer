@@ -1,22 +1,3 @@
-```
- ██╗   ██╗██╗     ██╗     ███████╗███╗   ██╗███████╗███████╗██████╗
- ╚██╗ ██╔╝██║     ██║     ██╔════╝████╗  ██║██╔════╝██╔════╝██╔══██╗
-  ╚████╔╝ ██║     ██║     █████╗  ██╔██╗ ██║█████╗  █████╗  ██████╔╝
-   ╚██╔╝  ██║     ██║     ██╔══╝  ██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-    ██║   ███████╗███████╗███████╗██║ ╚████║██║     ███████╗██║  ██║
-    ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝     ╚══════╝╚═╝  ╚═╝
-```
-
-```
-> LOADING PLAYER PROFILE............ OK
-> CIVILISATION: LINUX  ──  FACTIONS: UBUNTU · ELEMENTARY OS
-> HERO CLASS: Software Engineer · Home Lab Commander · Open Source Knight
-> UNIT STATUS: [■■■■■■■■░░] ACTIVE — RESEARCHING MECHATRONICS
-```
-
----
-
-## `[ HERO STATS ]`
 
 ```
 ⚙  CURRENT RESEARCH  ──  Mechatronics Engineering (self-taught)
